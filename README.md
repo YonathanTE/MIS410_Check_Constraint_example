@@ -10,3 +10,4 @@ TABLE: Product
 - dateIntroduced cannot be more than 6 months into the future
 
 ## Below is an Entity Relationship Diagram to display the columns available in each of the tables:
+![Main_ERD_for_MI410](https://user-images.githubusercontent.com/68878624/146239408-6b717748-7eec-4a26-9a68-65a8f6a8a5ab.png)
