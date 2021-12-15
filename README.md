@@ -1,5 +1,5 @@
 # Check Constraint
-The query is for a check constraint that is utilized for a table based on products on SQL Server. The goal is to ensure that attempts to add into the products table follow the guidelines of the constraint written.
+The query is for a check constraint that is utilized for a table based on products on SQL Server 2014. The goal is to ensure that attempts to add into the products table follow the guidelines of the constraint written.
 
 ## Guidelines
 Write SQL to create appropriate check constraints for the following table:
