@@ -8,3 +8,5 @@ TABLE: Product
 - Subcategory is always NULL if category is NULL
 - UPC_CODE is always 32 characters and is allowed to have only alphabets, digits, hyphen
 - dateIntroduced cannot be more than 6 months into the future
+
+### Below is an Entity Relationship Diagram to display the columns available in each of the tables:
