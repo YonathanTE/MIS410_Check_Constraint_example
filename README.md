@@ -1,7 +1,7 @@
 # Check Constraint
 The query is for a check constraint that is utilized for a table based on products on SQL Server. The goal is to ensure that attempts to add into the products table follow the guidelines of the constraint written.
 
-Guidelines
+## Guidelines
 Write SQL to create appropriate check constraints for the following table:
 TABLE: Product 
 - Category may be NULL or it is one of two values 'Perishable' or 'Durable'
